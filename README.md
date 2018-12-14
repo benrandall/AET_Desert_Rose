@@ -1,4 +1,4 @@
-### Coachella Interactive Art Installation - Desert Rose
+# Coachella Interactive Art Installation - Desert Rose
 
 ## Background
 The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, located in the Inland Empire's Coachella Valley in the Colorado Desert.
