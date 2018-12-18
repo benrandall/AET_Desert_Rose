@@ -17,4 +17,4 @@ If a RealSense camera is connected, the "Camera Mode" button will cycle through 
 
 There is also a demo of the planned projection mapping. Looking at the network, a final triangle-shaped Window can be seen.
 
-![Image of Render](https://github.com/benrandall/AET_Desert_Rose/images/prototype.jpg)
+![Image of Render](https://github.com/benrandall/AET_Desert_Rose/blob/master/images/prototype.jpg)
