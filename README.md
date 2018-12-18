@@ -16,3 +16,5 @@ Press the "Change Effect" in the bottom left of the screen to cycle through effe
 If a RealSense camera is connected, the "Camera Mode" button will cycle through RealSense modes. The camera must first be enabled by changing the value of the switch node.
 
 There is also a demo of the planned projection mapping. Looking at the network, a final triangle-shaped Window can be seen.
+
+![Image of Render](https://github.com/benrandall/AET_Desert_Rose/images/prototype.jpg)
